@@ -7,9 +7,13 @@ The Stock Price Prediction Web App uses historical stock data (up to the past 20
 The app is designed to:
 
 •	Take any stock ticker as input (e.g., AAPL, GOOG, TSLA).
+
 •	Fetch data from Yahoo Finance for the past 20 years.
+
 •	Preprocess the data and prepare it for training the model.
+
 •	Use an LSTM model to predict the next day's closing price.
+
 •	Display the prediction and visualizations using Matplotlib.
 
 Technologies Used
