@@ -18,17 +18,26 @@ The app is designed to:
 
 Technologies Used
 •	Streamlit: For building the interactive web app.
+
 •	TensorFlow: For creating and training the LSTM model.
+
 •	Keras: High-level API for building neural networks with TensorFlow backend.
+
 •	Numpy: For numerical operations and handling arrays.
+
 •	Pandas: For data manipulation and handling time series data.
+
 •	Matplotlib: For visualizing the stock price and prediction results.
+
 •	Yahoo Finance API: For fetching stock data.
 
 Features
 •	Stock Ticker Input: Users can input any stock ticker symbol (e.g., AAPL, MSFT, TSLA).
+
 •	Stock Price Prediction: Predicts the next day's closing price based on historical data.
+
 •	Data Visualization: Displays stock price data and predictions using interactive graphs.
+
 •	Accurate Predictions: Achieves 97%+ accuracy in predicting the closing price of stocks.
 
 Installation
