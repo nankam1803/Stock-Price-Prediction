@@ -2,10 +2,10 @@ Stock Price Prediction Web App
 
 This project is a Stock Price Prediction Web App built using Streamlit, TensorFlow, and Keras. The app predicts the next day's closing price of a stock using historical data from Yahoo Finance. The model is based on an LSTM (Long Short-Term Memory) neural network, which is a type of recurrent neural network (RNN) that excels in time series forecasting.
 
-Introduction
 The Stock Price Prediction Web App uses historical stock data (up to the past 20 years) to predict the closing price for the next trading day. The model uses a 75-day window of historical data to predict the stock price using an LSTM model.
 
 The app is designed to:
+
 •	Take any stock ticker as input (e.g., AAPL, GOOG, TSLA).
 •	Fetch data from Yahoo Finance for the past 20 years.
 •	Preprocess the data and prepare it for training the model.
