@@ -17,6 +17,7 @@ The app is designed to:
 •	Display the prediction and visualizations using Matplotlib.
 
 Technologies Used
+
 •	Streamlit: For building the interactive web app.
 
 •	TensorFlow: For creating and training the LSTM model.
@@ -32,6 +33,7 @@ Technologies Used
 •	Yahoo Finance API: For fetching stock data.
 
 Features
+
 •	Stock Ticker Input: Users can input any stock ticker symbol (e.g., AAPL, MSFT, TSLA).
 
 •	Stock Price Prediction: Predicts the next day's closing price based on historical data.
